@@ -5,5 +5,5 @@ metadata:
   namespace: todo-db
 data:
   SERVER_URL: "http://127.0.0.1:3000"
-  CLOUDANT_URL: "https://36368344-a692-4d01-bdb2-2e6d0f5f1d42-bluemix.cloudantnosqldb.appdomain.cloud"
+  CLOUDANT_URL: "https://d30f9464-9f3f-4768-9c82-c9e61aeffe8b-bluemix.cloudant.com"
   CLOUDANT_DB_NAME: "todo-db"
